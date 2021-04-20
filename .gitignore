@@ -3,11 +3,17 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# VS code
+.vscode
+
 # python virtualenv
 venv
 
 # instance folder
 instance
+
+# flaskr
+flaskr.egg-info
 
 # User-specific files
 *.rsuser
