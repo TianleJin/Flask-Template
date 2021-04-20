@@ -6,6 +6,9 @@
 # python virtualenv
 venv
 
+# instance folder
+instance
+
 # User-specific files
 *.rsuser
 *.suo
